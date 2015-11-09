@@ -4,7 +4,7 @@ x = 5
 y = 6
 
 #conditions
-
+#examples
 if (True):
     x = 0
 else:
@@ -27,6 +27,6 @@ while (times > 0):
 def fun(a, b, c, x):
     result = a*(x*x)+b*x+c
     return result
-    
+
 u = fun(1,2,3,4)
 print(u)
