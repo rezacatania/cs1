@@ -1,0 +1,12 @@
+module food
+
+import list
+import bool
+import nat
+
+record food where
+  constructor mkFood
+  quality
+  cheapness
+  openlate
+  
